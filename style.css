@@ -14,7 +14,7 @@ body {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-image: url('/IMG/Cartão de Perfil/bg-pattern-top.svg'), url('/IMG/Cartão de Perfil/bg-pattern-bottom.svg');
+    background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;
     background-position: left -5rem top -28rem, right -10rem bottom -30rem;
     background-color: hsl(185, 75%, 39%);
